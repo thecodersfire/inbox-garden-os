@@ -19,3 +19,20 @@ org.gnome.Papers
 org.gnome.TextEditor
 org.gnome.Boxes
 org.gnome.baobab
+
+# Fifteen additional preinstalled purpose-specific applications
+org.mozilla.Thunderbird
+org.gnome.Evolution
+org.jabref.jabref
+com.github.xournalpp.xournalpp
+org.gnome.gitg
+io.dbeaver.DBeaverCommunity
+org.kde.digikam
+org.gnome.Shotwell
+org.stellarium.Stellarium
+org.geogebra.GeoGebra
+org.musescore.MuseScore
+io.lmms.LMMS
+org.zotero.Zotero
+com.github.johnfactotum.Foliate
+com.calibre_ebook.calibre
