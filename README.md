@@ -24,3 +24,9 @@ The `inbox-garden.svg` wallpaper is original. Inbox Garden OS is an independent 
 
 See [FEATURES.md](FEATURES.md) for three local tools included for email and document handling.
 
+
+The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, Zotero**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, VSCodium**. See [FEATURES.md](FEATURES.md).

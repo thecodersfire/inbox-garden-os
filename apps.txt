@@ -2,3 +2,8 @@
 org.mozilla.firefox
 org.libreoffice.LibreOffice
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.gnome.Calendar
+org.keepassxc.KeePassXC
+com.vscodium.codium
