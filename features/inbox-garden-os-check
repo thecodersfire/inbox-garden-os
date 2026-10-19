@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ask(){ local answer; read -r -p "$1 [y/N] " answer; [[ "$answer" =~ ^[Yy]([Ee][Ss])?$ ]]; }
+echo 'inbox-garden-os readiness checklist'
+ask 'Are coordinate system and data source recorded?' || true
+ask 'Is sensitive location data handled carefully?' || true
+ask 'Are originals preserved before editing?' || true
+echo 'Checklist complete. Answers were not saved or transmitted.'

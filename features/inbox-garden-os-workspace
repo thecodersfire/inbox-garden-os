@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+base="$HOME/Documents/inbox-garden-os-workspace"
+mkdir -p "$base/Field Notes" "$base/Source Data" "$base/Map Exports"
+printf 'Workspace ready: %s\n' "$base"

@@ -14,3 +14,6 @@ git push -u origin main
 ```
 
 Replace `YOUR-USERNAME`. Never commit ISO files, secrets, private data, or proprietary binaries.
+
+Include FEATURES.md and the complete features/ directory when copying this project to GitHub.
+

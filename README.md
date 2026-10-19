@@ -19,3 +19,8 @@ This source repository has scripts and artwork, not an ISO or Ubuntu binaries. I
 To build a customized ISO, use Cubic on an Ubuntu host and follow [Cubic instructions](https://github.com/PJ-Singh-001/Cubic/wiki/Install-Cubic). Review license and trademark terms before distributing an image.
 
 The `inbox-garden.svg` wallpaper is original. Inbox Garden OS is an independent Ubuntu customization, not an official Ubuntu, Canonical, Mozilla, or Opera product.
+
+## Purpose-specific built-in tools
+
+See [FEATURES.md](FEATURES.md) for three local tools included for email and document handling.
+
