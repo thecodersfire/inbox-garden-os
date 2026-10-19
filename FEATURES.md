@@ -83,3 +83,7 @@ This second batch adds another set of apps selected for this setup’s purpose. 
 15. **Konsole** (org.kde.konsole) — run shell commands and inspect development or system tasks.
 
 Game frontends do not include proprietary game data; add only games or files you are allowed to use.
+
+## Blender included in every setup
+
+Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
