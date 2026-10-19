@@ -3,7 +3,19 @@ org.mozilla.firefox
 org.libreoffice.LibreOffice
 com.opera.opera-gx
 
-# Three additional preinstalled purpose-specific applications
+# Three previously added purpose-specific applications
 org.gnome.Calendar
 org.keepassxc.KeePassXC
 com.vscodium.codium
+
+# Ten additional preinstalled purpose-specific applications
+org.gnome.Maps
+org.gnome.Weather
+org.gnome.clocks
+org.gnome.Calculator
+org.gnome.Contacts
+org.gnome.SimpleScan
+org.gnome.Papers
+org.gnome.TextEditor
+org.gnome.Boxes
+org.gnome.baobab
