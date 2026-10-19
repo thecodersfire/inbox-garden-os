@@ -36,3 +36,20 @@ io.lmms.LMMS
 org.zotero.Zotero
 com.github.johnfactotum.Foliate
 com.calibre_ebook.calibre
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kontact
+org.kde.kmymoney
+org.kde.marknote
+org.kde.klevernotes
+org.kde.okular
+org.kde.kate
+org.kde.ark
+org.kde.dolphin
+org.kde.filelight
+io.github.flattool.Warehouse
+com.github.flxzt.rnote
+org.kde.kcalc
+org.kde.kalarm
+org.gnome.meld
+org.kde.konsole
