@@ -87,3 +87,23 @@ Game frontends do not include proprietary game data; add only games or files you
 ## Blender included in every setup
 
 Blender (org.blender.Blender) is included in every setup for 3D modeling, animation, rendering, and video editing. Installers fetch it from Flathub; Blender’s own license and terms apply.
+
+## Fifteen additional purpose-specific applications
+
+The setup adds these Flathub applications for email and document handling. Applications are fetched from Flathub by the setup script; each app keeps its own licensing and terms.
+
+1. **PDF Arranger** (com.github.jeromerobert.pdfarranger) — Reorder, rotate, split, and merge PDF pages.
+2. **LocalSend** (org.localsend.localsend_app) — Transfer files directly between nearby devices on your local network.
+3. **Joplin** (net.cozic.joplin_desktop) — Organize notes and checklists in notebooks.
+4. **KBackup** (org.kde.kbackup) — Create user-selected backup archives of files and folders.
+5. **Déjà Dup** (org.gnome.DejaDup) — Create user-configured file backups to a chosen destination.
+6. **KRename** (org.kde.krename) — Batch rename photo, document, and project files.
+7. **Tellico** (org.kde.tellico) — Catalog books, media, games, and other collections.
+8. **Skanpage** (org.kde.skanpage) — Scan and arrange multipage documents from a connected scanner.
+9. **Merkuro** (org.kde.merkuro) — Organize calendars, contacts, and tasks.
+10. **KClock** (org.kde.kclock) — Use alarms, timers, and a stopwatch.
+11. **QGIS** (org.qgis.qgis) — Create and analyze geographic information system projects.
+12. **Marble** (org.kde.marble) — Explore maps and a virtual globe for route and place context.
+13. **KGeography** (org.kde.kgeography) — Practice place and map recognition.
+14. **KGeoTag** (org.kde.kgeotag) — Review and edit photo location metadata.
+15. **Kst** (org.kde.kst) — Display and inspect scientific measurement and time-series data.
